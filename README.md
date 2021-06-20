@@ -1,7 +1,7 @@
 # hello-world
 CV
 
-Здорова отец.
+Здарова отец.
 
 апр. 2020 г. – настоящее время
 IT-recruiter – SMART HIRING PRO
